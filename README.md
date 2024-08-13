@@ -1,4 +1,17 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# My-Bike Landing page
+
+Here you can find:
+
+- "home page" with burger menu;
+- section with 3 different bicycles;
+- section with "details" of these goods;
+- "contact us" section with contact information and form with the help of which you can write your message to the admin of the site;
+- sticky footer;
+
+Technologies which were used:
+
+- all pictures with hover effect;
+- mixins;
+- variables;
+- `nav__links` work smoothly;
+- [DEMO LINK](https://Stasandrushchak.github.io/my-bike_landing-page/)
