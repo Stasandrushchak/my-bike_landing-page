@@ -18,6 +18,6 @@ Technologies which were used:
 
 To launch the project:
 
-- git clone;
+- git clone https://github.com/Stasandrushchak/my-bike_landing-page.git;
 - npm install;
 - npm start;
