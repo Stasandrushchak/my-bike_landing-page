@@ -1,5 +1,7 @@
 # My-Bike Landing page
 
+- [DEMO LINK](https://Stasandrushchak.github.io/my-bike_landing-page/)
+
 Here you can find:
 
 - "home page" with burger menu;
@@ -14,10 +16,10 @@ Technologies which were used:
 - mixins;
 - variables;
 - `nav__links` work smoothly;
-- [DEMO LINK](https://Stasandrushchak.github.io/my-bike_landing-page/)
 
 To launch the project:
 
 - git clone https://github.com/Stasandrushchak/my-bike_landing-page.git;
+- cd my-bike_landing-page;
 - npm install;
 - npm start;
