@@ -15,3 +15,9 @@ Technologies which were used:
 - variables;
 - `nav__links` work smoothly;
 - [DEMO LINK](https://Stasandrushchak.github.io/my-bike_landing-page/)
+
+To launch the project:
+
+- git clone;
+- npm install;
+- npm start;
